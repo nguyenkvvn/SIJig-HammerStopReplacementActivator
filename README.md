@@ -11,3 +11,6 @@ A crude implementation of a chiropractic activator device using a Strike Industr
 * Use 95% infill
 * TPU of 95A shore hardness is the tested material, although softer material may be usable.
 * Print with strike-face down on the build plate.
+
+## Disclaimer
+This is not a firearm. Use at your own risk. I'm not responsible if you hurt yourself or anyone else.
